@@ -26,6 +26,7 @@ int i=1;
                         .setAction("Action", null).show();
             }
         });
+        String s="test branch";
     }
 
     @Override
