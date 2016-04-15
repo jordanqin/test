@@ -28,6 +28,7 @@ int i=1;
         });
         String s="test branch";
         String s1="test branch1";
+        int a=111;
     }
 
     @Override
